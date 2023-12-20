@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.userBody{
+    width: 100%;
+    height: auto;
+    background: antiquewhite;
+    padding: 10px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+.userBody img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    clear: both;
+}
+.userItem{
+    list-style-type:none ;
+}
+
+.offline-status{
+    color:red;
+}
+
+.online-status{
+    color: green;
+}
+
+.chatBorad{
+    background-color: lightyellow;
+    height: 150px;
+    padding: 10px;
+}
+
+.chatBody{
+    display: none;
+}
+
+.current_user{
+    text-align: left;
+    margin: 5px;
+    padding: 5xp;
+}
+
+.reciver{
+    text-align: right;
+    margin: 5px;
+    padding: 5xp;
+}
+
+
+
